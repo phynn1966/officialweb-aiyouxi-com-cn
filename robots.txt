@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phynn1966.github.io/officialweb-aiyouxi-com-cn/sitemap.xml
